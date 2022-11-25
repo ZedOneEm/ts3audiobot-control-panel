@@ -6,8 +6,8 @@ const Brand = ({ children }) => {
       <div className="flex items-center brand">
         <img src="/assets/images/logo.png" alt="company-logo" />
         <div className="flex-column">
-          <span className="brand__text">TS3AudioBot</span>
-          <span className="brand__text">Control Panel</span>
+          <span className="brand__text">دایم گیمینگ</span>
+          <span className="brand__text">کنترل پنل</span>
         </div>
       </div>
       {children}
