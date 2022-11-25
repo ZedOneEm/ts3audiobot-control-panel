@@ -1,123 +1,120 @@
-{
-  "remove-bot-title": "Remove bot",
-  "user-create-title": "Create user",
-  "bot-create-title": "Create bot",
-  "bot-settings-title": "Bot settings",
-  "add-userid": "Add uniq",
-  "add-groupid": "Add group",
-  "start-all": "Start all",
-  "stop-all": "Stop all",
-  "users": "Users",
-  "groups": "Groups",
-  "add": "Add",
-  "delete": "remove",
-  "pass-change": "Change Password",
-  "username": "User Name",
-  "password": "Password",
-  "hello": "Hi",
-  "submit": "Submit",
-  "cancel": "Cancel",
-  "sign-in": "Sign in",
-  "other-bots": "Other bots",
-  "my-bots": "My bots",
+﻿{
+  "remove-bot-title": "حذف ربات",
+  "user-create-title": "ساخت کاربر",
+  "bot-create-title": "ساختن ربات",
+  "bot-settings-title": "تنضیمات ربات",
+  "add-userid": "اضافه کاربر",
+  "add-groupid": "اضافه کردن گروه",
+  "start-all": "استارت همه",
+  "stop-all": "از کار انداختن همه",
+  "users": "کاربر ها",
+  "groups": "گروه",
+  "add": "اضافه کردن",
+  "delete": "حذف کردن",
+  "pass-change": "عوض کردن پسورد",
+  "username": "نام کاربری",
+  "password": "پسورد",
+  "hello": "سلام",
+  "submit": "ثبت",
+  "cancel": "لغو",
+  "sign-in": "وارد شدن",
+  "other-bots": "ربات های دیگر",
+  "my-bots": "ربات های من",
   "bot-stats": {
-    "online": "Online bots",
-    "offline": "Offline bots"
+    "online": "ربات های انلاین",
+    "offline": "ربات های افلاین"
   },
   "bot-settings": {
-    "address": "Server address",
-    "name": "Bot name",
-    "channel": "Bot channel",
-    "language": "Bot language",
-    "owner": "Bot owner",
-    "volume": "Default bot volume after start",
-    "song": "Default song played after enter",
-    "commander": "Set commander after start",
-    "count": "Number of bots"
+    "address": "ادرس سرور ",
+    "name": "اسم ربات",
+    "channel": "کانال ربات",
+    "language": "زبان ربات",
+    "owner": "سرپرست ربات",
+    "count": "تعداد ربات ها"
   },
   "user-remove-modal": {
-    "title": "Delete User",
-    "question": "What to do with bots?",
-    "transfer": "transfer",
-    "remove": "remove",
+    "title": "حذف کابر",
+    "question": "چه کاری با ربات میخواهید انجام دهید ؟?",
+    "transfer": "انتقال",
+    "remove": "پاک کردن",
     "options": {
-      "remove": "Bots will be removed",
-      "transfer": "Choose where to move bots",
-      "default": "You can safely delete user",
-      "noaction": "Not selecting an option will leave the bots unassigned"
+      "remove": "ربات ها پاک خواهند شد",
+      "transfer": "انتخاب کنید ربات به کجا برود",
+      "default": "شما میتوانید به صورت ایمن کاربر را پاک کنید",
+      "noaction": "عدم انتخاب یک گزینه باعث می شود ربات ها تخصیص داده نشوند"
     }
   },
   "navigation": {
-    "dashboard": "Dashboard",
-    "createbot": "Create bot",
-    "users": "Users"
+    "dashboard": "داشبورد",
+    "createbot": "ساختن ربات",
+    "users": "کاربر ها"
   },
   "bot": {
-    "remove": "Remove bot",
-    "transfer": "Change bot owner",
-    "settings": "Bot settings",
-    "power": "On / Off bot",
-    "status": "Status",
-    "name": "Name",
-    "server": "Server",
-    "owner": "Owner"
+    "remove": "خذف ربات",
+    "transfer": "عوض کردن سرپرس ربات",
+    "settings": "تنضیمات ربات",
+    "power": "خاموش / روشن کردن ربات",
+    "status": "وضعیت",
+    "name": "نام",
+    "server": "سرور",
+    "owner": "سرپرست"
   },
   "table": {
     "body": {
-      "emptyDataSourceMessage": "No data to display",
-      "addTooltip": "Add",
-      "deleteTooltip": "Delete",
-      "editTooltip": "Edit",
+      "emptyDataSourceMessage": "هیچ اطلاعاتی برای نمایش وجود ندارد",
+      "addTooltip": "اضافه کردن",
+      "deleteTooltip": "حذف",
+      "editTooltip": "ویرایش",
       "filterRow": {
-        "filterTooltip": "Filter"
+        "filterTooltip": "فیلتر"
       },
       "editRow": {
-        "deleteText": "Are you sure you want to delete this row?",
-        "cancelTooltip": "Cancel",
-        "saveTooltip": "Submit"
+        "deleteText": "مطمعن هستید میخواهید این ردیف را حذف کنید?",
+        "cancelTooltip": "لغو",
+        "saveTooltip": "ثبت"
       }
     },
     "grouping": {
-      "placeholder": "Drag the headers .."
+      "placeholder": "رها کردن سربرگ ها .."
     },
     "header": {
-      "actions": "Actions"
+      "actions": "اقدامات"
     },
     "pagination": {
-      "labelDisplayedRows": "from {from} to {to} with {count} in total",
-      "labelRowsSelect": "Rows",
-      "labelRowsPerPage": "Rows per page:",
-      "firstAriaLabel": "First page",
-      "firstTooltip": "First page",
-      "previousAriaLabel": "Previous page",
-      "previousTooltip": "Previous page",
-      "nextAriaLabel": "Next page",
-      "nextTooltip": "Next page",
-      "lastAriaLabel": "Last page",
-      "lastTooltip": "Last page"
+      "labelDisplayedRows": " {to} به{from} از  با {count} درکل",
+      "labelRowsSelect": "سطر",
+      "labelRowsPerPage": "سطر هر صفحه:",
+      "firstAriaLabel": "صفحه اول",
+      "firstTooltip": "صفحه اول",
+      "previousAriaLabel": "صفحه قبلی",
+      "previousTooltip": "صفحه قبلی",
+      "nextAriaLabel": "صفحه بعدی",
+      "nextTooltip": "صفحه بعدی",
+      "lastAriaLabel": "اخرین صفحه",
+      "lastTooltip": "اخرین صفحه"
     },
     "toolbar": {
-      "addRemoveColumns": "Add or remove columns",
-      "nRowsSelected": "{0} rows selected",
-      "showColumnsTitle": "Show column titles",
-      "showColumnsAriaLabel": "Show column titles",
-      "exportTitle": "Export",
-      "exportAriaLabel": "Export",
-      "exportName": "Export to .CSV",
-      "searchTooltip": "Search",
-      "searchPlaceholder": "Search"
+      "addRemoveColumns": "اضافه یا حذف ردیف",
+      "nRowsSelected": "{0} سطر های انتخاب شده",
+      "showColumnsTitle": "نشان دادن سطر سر تیتر ها",
+      "showColumnsAriaLabel": "نشان دادن سطر سر تیتر ها",
+      "exportTitle": "خروجی",
+      "exportAriaLabel": "خروجی",
+      "exportName": "خروجی به .CSV",
+      "searchTooltip": "جستجو",
+      "searchPlaceholder": "جستجو"
     }
   },
   "responses": {
-    "CREATE_BOT_SUCCESS": "Bot created",
-    "ADD_BOT_RIGHTS_SUCCESS": "A new permission has been added",
-    "DEL_BOT_RIGHTS_SUCCESS": "Permission removed",
-    "START_BOT_SUCCESS": "Bot started",
-    "STOP_BOT_SUCCESS": "Bot stopped",
-    "EDIT_BOT_SUCCESS": "Settings saved",
-    "TRANSFER_BOT_SUCCESS": "Bot was moved",
-    "REMOVE_BOT_SUCCESS": "Bot removed",
-    "CREATE_USER_SUCCESS": "User created",
-    "REMOVE_USER_SUCCESS": "User removed"
+    "CREATE_BOT_SUCCESS": "ربات ساخته شد",
+    "ADD_BOT_RIGHTS_SUCCESS": "دسترسی جدید اضافه شد",
+    "DEL_BOT_RIGHTS_SUCCESS": "دسترسی حذف شد",
+    "START_BOT_SUCCESS": "ربات استارت شد",
+    "STOP_BOT_SUCCESS": "ربات متوقف شد",
+    "EDIT_BOT_SUCCESS": "ربات با موفقیت ویرایش شد",
+    "TRANSFER_BOT_SUCCESS": "ربات جا به جا شد",
+    "REMOVE_BOT_SUCCESS": "ربات حذف شد",
+    "CREATE_USER_SUCCESS": "کاربر ساخته شد",
+    "REMOVE_USER_SUCCESS": "کاربر حذف شد"
   }
 }
